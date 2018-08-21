@@ -1,0 +1,7 @@
+1 - O que são classes e objetos numa linguagem de programação orientada a objetos? Explique a diferença entre os dois.
+
+Classe é uma estrutura que contem um conjunto de características (artributos) e métodos. Uma classe define o comportamento do objeto (artributos) e os estados deste objeto (métodos). A classe pode ser comparada a um molde principal de um objeto que possibilita a criação de muitos outros a partir dela.
+
+Objetos são instâncias de classes. 
+
+A classe é o modelo a ser seguido para a criação de um objeto. Já o objeto é a concretização do modelo. A classe seria a planta de uma casa e o objeto seria a casa construida.

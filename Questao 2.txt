@@ -1,0 +1,3 @@
+2 - Para que serve um construtor e quando e como ele pode ser utilizado?
+
+Um construtor serve para inicializar diretamente os artributos de uma classe com valores definidos. É a função de mesmo nome da classe que o compilador sempre executa quando um objeto é criado. Ele é necessário quando um programa necessita de que os artributos da classe possuam um valor Default, quando há a necessidade de alocação dinâmica ou recuperação de dados em arquivos. Ele não retorna nenhum valor e pode ser usado para dedinir valores Default ou pode conter parâmetros para que o usuário do programa defina esses valores.

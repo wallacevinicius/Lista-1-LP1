@@ -1,0 +1,3 @@
+4 - Quais são os benefícios do encapsulamento na programação orientada a objetos? Exemplifique.
+
+Esta técnica permite retringir o acesso aos artributos e métodos de uma classe, não permite que o usuário do programa altere diretamente variáveis importantes, protege informações privadas e mantém alguns detalhes da implementação do programa ocultos. Por exemplo, não é recomendável que um usuário mude o limite do cartão de crédito de forma direta. É necessário que haja um tratamento, através de métodos, para avaliar a possibilidade do limite aumentar.
